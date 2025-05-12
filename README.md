@@ -1,3 +1,5 @@
+### source : sains data itera
+
 # Big Data Spark - Single Node Cluster with Docker
 
 Praktikum ini membuat sebuah *single-node Spark cluster* menggunakan Docker dengan integrasi MySQL untuk penyimpanan data Hive Metastore dan ZooKeeper untuk koordinasi HBase serta engine pemrosesan data dengan Spark. Anda dapat melakukan percobaan atau pembelajaran Big Data lokal di Windows.
